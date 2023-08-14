@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+#Main{
+    width: 100%;
+    height: 100%;
+    background-image: url(https://plus.unsplash.com/premium_photo-1683309565422-77818a287060?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHBvcnRmb2xpbyUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1000&q=60);
+    background-size: cover;
+    
+  
+}
